@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: DestinationService
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Brecht
+Implementation-Vendor-Id: org.ucll.distributedApplications
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/DestinationS
+ ervice/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
