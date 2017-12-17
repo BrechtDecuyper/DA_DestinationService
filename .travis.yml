@@ -13,4 +13,4 @@ services:
 script:
 - docker login -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
 - mvn clean package docker:build
-- docker push r0630049/destinationservice:opdracht3
+- docker push brechtdecuyper/destinationservice:opdracht3
